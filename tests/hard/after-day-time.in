@@ -1,0 +1,8 @@
+meeting, m1
+meeting, m2
+meeting, m3
+meeting, m4
+domain, m1, after mon 12pm, hard
+domain, m2, after tue 12pm, hard
+domain, m3, after wed 12pm, hard
+domain, m4, after thu 12pm, hard

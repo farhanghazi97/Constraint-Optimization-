@@ -1,0 +1,10 @@
+# 2 meetings with 6 binary constraints
+meeting, m1
+meeting, m2
+# domain constraints
+domain, m1, after mon, hard
+domain, m1, before wed, hard
+domain, m2, before fri, hard
+domain, m2, after wed, hard
+domain, m1, early-morning, soft
+domain, m2, late-afternoon, soft

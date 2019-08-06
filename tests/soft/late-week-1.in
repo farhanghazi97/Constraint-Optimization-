@@ -1,0 +1,10 @@
+# late week soft constraint coupled with hard constraints
+meeting, m1
+meeting, m2
+meeting, m3
+domain, m1, late-week, soft
+domain, m1, mon 9am-tue 12pm, hard
+domain, m2, late-week, soft
+domain, m2, before thu, hard
+domain, m3, late-week, soft
+domain, m3, afternoon, hard

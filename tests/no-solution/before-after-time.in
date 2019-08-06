@@ -1,0 +1,4 @@
+# Test no solution
+meeting, m1
+domain, m1, before 10am, hard
+domain, m1, after 10am, hard

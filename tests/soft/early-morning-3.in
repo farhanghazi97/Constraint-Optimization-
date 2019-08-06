@@ -1,0 +1,5 @@
+# Testing early morning constraints
+meeting, m1
+domain, m1, early-morning, soft
+domain, m1, 4pm, hard
+domain, m1, mon, hard

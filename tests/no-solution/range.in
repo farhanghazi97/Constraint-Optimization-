@@ -1,0 +1,4 @@
+# one meeting with disjoint hard range constraints
+meeting, meeting1
+domain, meeting1, mon 9am-tue 12pm, hard
+domain, meeting1, wed 9am-thu 4pm, hard

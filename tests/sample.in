@@ -1,0 +1,10 @@
+# two meetings with one binary constraint and the same domain constraints
+meeting, m1
+meeting, m2
+# one binary constraint
+constraint, m1 before m2
+# domain constraints
+domain, m1, mon, hard
+domain, m2, mon, hard
+domain, m1, early-morning, soft
+domain, m2, early-morning, soft

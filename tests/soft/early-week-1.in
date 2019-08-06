@@ -1,0 +1,10 @@
+# early week soft constraint
+meeting, m1
+meeting, m2
+meeting, m3
+domain, m1, early-week, soft
+domain, m1, thu 12pm-fri 12pm, hard
+domain, m2, early-week, soft
+domain, m2, after thu, hard
+domain, m3, early-week, soft
+domain, m3, afternoon, hard

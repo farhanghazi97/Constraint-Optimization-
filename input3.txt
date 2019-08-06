@@ -1,0 +1,14 @@
+# 3 meetings with 2 binary constraints and 3 domain constraints
+meeting, m1
+meeting, m2
+meeting, m3
+
+
+# binary constraints
+constraint, m1 one-day-between m3
+constraint, m1 one-hour-between m2
+
+# domain constraints
+domain, m1, tue, hard
+domain, m2, tue, hard
+domain, m3, early-week, soft

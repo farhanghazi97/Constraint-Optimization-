@@ -1,0 +1,10 @@
+# test that output is in order that meeting were defined
+meeting, m3
+meeting, m2
+meeting, m1
+domain, m1, tue, hard
+domain, m1, 10am, hard
+domain, m2, fri, hard
+domain, m2, 2pm, hard
+domain, m3, mon, hard
+domain, m3, 12pm, hard

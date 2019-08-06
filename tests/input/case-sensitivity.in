@@ -1,0 +1,7 @@
+# Test for case sensitivity for meeting names
+meeting, meeting-one
+meeting, MEETING-ONE
+domain, meeting-one, wed, hard
+domain, meeting-one, 4pm, hard
+domain, MEETING-ONE, tue, hard
+domain, MEETING-ONE, 2pm, hard

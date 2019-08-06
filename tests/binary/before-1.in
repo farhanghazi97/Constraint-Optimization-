@@ -1,0 +1,4 @@
+meeting, m1
+meeting, m2
+constraint, m2 before m1
+domain, m1, wed, hard

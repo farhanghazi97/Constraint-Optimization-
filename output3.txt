@@ -1,0 +1,4 @@
+m1:tue 2pm
+m2:tue 12pm
+m3:thu 1pm
+cost:3

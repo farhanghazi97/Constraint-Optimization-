@@ -1,0 +1,7 @@
+# Two meetings with day hard constraints and conflicting same-day constraint
+meeting, m1
+meeting, m2
+constraint, m1 same-day m2
+domain, m1, thu, hard
+domain, m2, fri, hard
+

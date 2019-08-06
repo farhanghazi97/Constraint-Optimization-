@@ -1,0 +1,12 @@
+# Test variable name formats
+meeting, m1
+meeting, meeting2
+meeting, meeting-3
+meeting, meetingfour
+meeting, meeting_five
+meeting, 6meeting
+meeting, 7_meeting-about-stuff
+meeting, a-really-really-long-meeting-about-the-number-eight
+meeting, EPICMEETING_NUMBER9
+meeting, MeetingAbout9Asterisks*
+meeting, $doll@rm1te`Meeting!

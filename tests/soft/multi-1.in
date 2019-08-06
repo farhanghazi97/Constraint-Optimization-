@@ -1,0 +1,42 @@
+# test for multiple soft constraints
+meeting, m1
+meeting, m2
+meeting, m3
+meeting, m4
+meeting, m5
+meeting, m6
+meeting, m7
+meeting, m8
+
+domain, m1, early-morning, soft
+domain, m1, late-afternoon, soft
+domain, m1, mon, hard
+domain, m1, 10am, hard
+domain, m2, early-morning, soft
+domain, m2, late-afternoon, soft
+domain, m2, tue, hard
+domain, m2, 11am, hard
+domain, m3, early-morning, soft
+domain, m3, late-afternoon, soft
+domain, m3, wed, hard
+domain, m3, 12pm, hard
+domain, m4, early-morning, soft
+domain, m4, late-afternoon, soft
+domain, m4, thu, hard
+domain, m4, 1pm, hard
+domain, m5, early-morning, soft
+domain, m5, late-afternoon, soft
+domain, m5, fri, hard
+domain, m5, 2pm, hard
+domain, m6, early-morning, soft
+domain, m6, late-afternoon, soft
+domain, m6, thu, hard
+domain, m6, 3pm, hard
+domain, m7, early-morning, soft
+domain, m7, late-afternoon, soft
+domain, m7, wed, hard
+domain, m7, 4pm, hard
+domain, m8, early-morning, soft
+domain, m8, late-afternoon, soft
+domain, m8, tue, hard
+domain, m8, 9am, hard

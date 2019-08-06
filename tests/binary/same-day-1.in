@@ -1,0 +1,20 @@
+meeting, m1
+meeting, m2
+meeting, m3
+meeting, m4
+meeting, m5
+meeting, m6
+meeting, m7
+meeting, m8
+meeting, m9
+meeting, m10
+constraint, m1 same-day m3
+constraint, m2 same-day m4
+constraint, m8 same-day m5
+constraint, m6 same-day m7
+constraint, m10 same-day m9
+domain, m3, fri, hard
+domain, m4, thu, hard
+domain, m8, wed, hard
+domain, m7, tue, hard
+domain, m10, mon, hard

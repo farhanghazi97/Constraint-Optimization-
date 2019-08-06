@@ -1,0 +1,10 @@
+# Testing comments are ignored
+meeting, m1 # ignored
+#meeting, m2
+   #meeting, m3 #meeting, m4
+domain, m1, fri, hard#domain, m1, before 9am, hard
+domain, m1, 11am, hard #domain, m1, before 9am, hard
+#domain, m1, afternoon, hard
+#domain, m2, morning, hard
+#domain, m3, after 12pm, hard
+#domain, m4, before 6am, hard

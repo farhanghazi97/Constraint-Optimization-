@@ -1,0 +1,4 @@
+# Testing midday soft constraint
+meeting, m1
+domain, m1, midday, soft
+domain, m1, tue, hard

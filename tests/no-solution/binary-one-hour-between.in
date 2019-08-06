@@ -1,0 +1,8 @@
+# Test no solution
+meeting, m1
+meeting, m2
+constraint, m1 one-hour-between m2
+domain, m1, 3pm, hard
+domain, m1, mon, hard
+domain, m2, 4pm, hard
+domain, m2, mon, hard

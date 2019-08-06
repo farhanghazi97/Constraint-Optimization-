@@ -1,0 +1,5 @@
+meeting, m1
+meeting, m2
+constraint, m1 one-day-between m2
+domain, m1, tue, hard
+domain, m2, before fri, hard

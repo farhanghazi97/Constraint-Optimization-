@@ -1,0 +1,18 @@
+# 3 meetings with three 3 constraints
+
+meeting, m1
+meeting, m2
+meeting, m3
+
+
+# Additional empty lines to show that
+# parsing accounts for this
+
+
+
+
+# domain constraints
+domain, m1, tue 12pm-tue 4pm, hard
+domain, m2, mon 11am-mon 3pm, hard
+domain, m3, early-week, soft
+domain, m3, late-afternoon, soft
